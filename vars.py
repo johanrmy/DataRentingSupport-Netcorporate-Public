@@ -1,0 +1,13 @@
+USERNAME = ""
+PASSWORD = ""
+MENU = "https://netcorporate.odoo.com/web#cids=1&action=menu"
+SERVICIO_DE_ASISTENCIA = "https://netcorporate.odoo.com/web#menu_id=443&cids=1&action=624&model=helpdesk.team&view_type=kanban"
+RENTING_SUPPORT = "https://netcorporate.odoo.com/web#menu_id=443&cids=1&action=615&active_id=2&model=helpdesk.ticket&view_type=list"
+LOGOUT = "https://netcorporate.odoo.com/web/session/logout"
+PROCESO_PREFIX = ["NET","E2","NTB","SOD"]
+NAME_FILE = "datos.xlsx"
+# MySQL connection
+HOST = ""
+USER_DB = ""
+PASSWORD_DB = ""
+DATABASE = "renting_netcorporate"
